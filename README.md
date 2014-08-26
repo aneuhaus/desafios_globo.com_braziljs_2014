@@ -42,5 +42,5 @@ Você não deve utilizar nenhuma função pronta da linguagem para contaagem dos
   
 #### BONUS POINTS:
   - Você consegue alterar a função para distinguir a contagem entre letras maiúsculas ou minúsculas?
-  - Sua função possui complexidade Θ(n)?
+  - Sua função possui complexidade `Θ(n)`?
   - Você consegue escrever testes automatizados para garantir que a saída dessa função está correta?
